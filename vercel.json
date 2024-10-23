@@ -7,7 +7,7 @@
       { "source": "/api/(.*)", "destination": "/api/index.js" }
     ],
     "redirects": [
-      { "source": "/(.*)", "destination": "/index.html", "permanent": true }
+      { "source": "/", "destination": "https://www.myportfolio-nikitaganesh.com", "permanent": true }
     ]
   }
- 
+  
